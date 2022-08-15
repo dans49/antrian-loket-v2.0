@@ -6,4 +6,4 @@ Dengan menggunakan Laravel versi 8.3 ini, diharapkan akan menjadi aplikasi yang 
 
 Tunggu kelanjutan dari project ini!
 
-Github.com => dans49
+- Github.com/dans49
